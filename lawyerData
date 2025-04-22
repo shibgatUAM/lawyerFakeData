@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "lawyerName": "Ayesha Rahman",
+    "image": "https://shibgat.me/lawyer-Image/1.png",
+    "speciality": "Family Law",
+    "experience": "8 years",
+    "licenseNumber": "BD-2021-FL001",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "fee": 3000
+  },
+  {
+    "id": 2,
+    "lawyerName": "Mahmud Hasan",
+    "image": "https://shibgat.me/lawyer-Image/2.png",
+    "speciality": "Criminal Law",
+    "experience": "10 years",
+    "licenseNumber": "BD-2015-CL002",
+    "availability": ["Tuesday", "Thursday"],
+    "fee": 5000
+  },
+  {
+    "id": 3,
+    "lawyerName": "Farzana Kabir",
+    "image": "https://shibgat.me/lawyer-Image/3.jpg",
+    "speciality": "Corporate Law",
+    "experience": "6 years",
+    "licenseNumber": "BD-2018-CO003",
+    "availability": ["Sunday", "Wednesday"],
+    "fee": 4000
+  },
+  {
+    "id": 4,
+    "lawyerName": "Rezaul Karim",
+    "image": "https://shibgat.me/lawyer-Image/4.jpg",
+    "speciality": "Civil Litigation",
+    "experience": "12 years",
+    "licenseNumber": "BD-2010-CV004",
+    "availability": ["Monday", "Thursday"],
+    "fee": 4500
+  },
+  {
+    "id": 5,
+    "lawyerName": "Nasrin Jahan",
+    "image": "https://shibgat.me/lawyer-Image/5.jpg",
+    "speciality": "Immigration Law",
+    "experience": "7 years",
+    "licenseNumber": "BD-2017-IM005",
+    "availability": ["Tuesday", "Friday"],
+    "fee": 3500
+  },
+  {
+    "id": 6,
+    "lawyerName": "Tanvir Alam",
+    "image": "https://shibgat.me/lawyer-Image/6.jpg",
+    "speciality": "Intellectual Property",
+    "experience": "9 years",
+    "licenseNumber": "BD-2014-IP006",
+    "availability": ["Sunday", "Thursday"],
+    "fee": 4200
+  },
+  {
+    "id": 7,
+    "lawyerName": "Sharmin Akter",
+    "image": "https://shibgat.me/lawyer-Image/7.jpg",
+    "speciality": "Labor Law",
+    "experience": "5 years",
+    "licenseNumber": "BD-2019-LB007",
+    "availability": ["Monday", "Tuesday"],
+    "fee": 3000
+  },
+  {
+    "id": 8,
+    "lawyerName": "Zahidul Islam",
+    "image": "https://shibgat.me/lawyer-Image/8.jpg",
+    "speciality": "Tax Law",
+    "experience": "11 years",
+    "licenseNumber": "BD-2013-TX008",
+    "availability": ["Wednesday", "Friday"],
+    "fee": 4800
+  },
+  {
+    "id": 9,
+    "lawyerName": "Shamima Sultana",
+    "image": "https://shibgat.me/lawyer-Image/9.jpg",
+    "speciality": "Banking Law",
+    "experience": "4 years",
+    "licenseNumber": "BD-2020-BK009",
+    "availability": ["Sunday", "Tuesday"],
+    "fee": 3200
+  },
+  {
+    "id": 10,
+    "lawyerName": "Habib Rahman",
+    "image": "https://shibgat.me/lawyer-Image/10.jpg",
+    "speciality": "Environmental Law",
+    "experience": "6 years",
+    "licenseNumber": "BD-2018-EN010",
+    "availability": ["Thursday", "Saturday"],
+    "fee": 3700
+  },
+  {
+    "id": 11,
+    "lawyerName": "Rumana Islam",
+    "image": "https://shibgat.me/lawyer-Image/11.jpg",
+    "speciality": "Consumer Protection",
+    "experience": "3 years",
+    "licenseNumber": "BD-2022-CP011",
+    "availability": ["Monday", "Wednesday"],
+    "fee": 2800
+  },
+  {
+    "id": 12,
+    "lawyerName": "Kamrul Ahsan",
+    "image": "https://shibgat.me/lawyer-Image/12.jpg",
+    "speciality": "Real Estate Law",
+    "experience": "13 years",
+    "licenseNumber": "BD-2009-RE012",
+    "availability": ["Tuesday", "Thursday"],
+    "fee": 5500
+  }
+]
